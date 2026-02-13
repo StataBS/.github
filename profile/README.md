@@ -1,29 +1,12 @@
----
-title: "README"
-output: html_document
-date: "2026-02-13"
----
+## Public code provided by the Statistical Office Basel-Stadt
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+This GitHub organization provides public access to code developed by the [Statistisches Amt Basel-Stadt](https://statistik.bs.ch) supporting transparency, reproducibility and collaboration. 
 
-## R Markdown
+The repositories mainly cover projects in the field of public statistics.Additional resources related to open government data are available at [Open Data Basel-Stadt](https://github.com/opendatabs), while our activities in artificial intelligence can be found at the [DCC Data Competence Center](https://github.com/DCC-BS). 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## What's included 
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+- Code behind our public **indicator portal**
+- Code behind our public **dashboards**
+- Code on selected **data science** projects
